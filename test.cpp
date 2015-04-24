@@ -7,4 +7,3 @@ int main()
     cin>> a;
     return 0;
 }
-＃head
